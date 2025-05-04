@@ -43,7 +43,7 @@ Submit a pull request.
 
 For any questions or feedback, feel free to reach out:
 
-Anshul Rawat
+Aditya bhandari
 
 GitHub: anshulrawat2507
 
